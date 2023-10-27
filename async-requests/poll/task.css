@@ -9,3 +9,8 @@ body {
 .poll__title {
   margin-bottom: 20px;
 }
+
+.statistics__el {
+  display: flex;
+  gap: 5px;
+}
